@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CariRodrigues
 - 👀 I’m interested in maths
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Frontend
+- 🌱 I’m currently learning Python, SQL, JS
+- 💞️ I’m looking to collaborate on Backend
 - 📫 How to reach me crodrigues.prog@gmail.com
 
 <!---
